@@ -1,0 +1,4 @@
+side1 = int(input().strip())
+side2 = int(input().strip())
+Area=side1*side2
+print(Area)
