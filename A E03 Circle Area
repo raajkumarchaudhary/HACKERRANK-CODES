@@ -1,3 +1,0 @@
-radius = int(input().strip())
-area=3.14*radius*radius
-print(area)
